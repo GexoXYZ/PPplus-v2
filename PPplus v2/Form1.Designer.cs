@@ -90,7 +90,7 @@
             // 
             this.metroLabel1.AutoSize = true;
             this.metroLabel1.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.metroLabel1.Location = new System.Drawing.Point(226, 204);
+            this.metroLabel1.Location = new System.Drawing.Point(231, 200);
             this.metroLabel1.Name = "metroLabel1";
             this.metroLabel1.Size = new System.Drawing.Size(59, 19);
             this.metroLabel1.TabIndex = 1;

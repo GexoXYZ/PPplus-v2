@@ -125,7 +125,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="icon.ico" />
     <Content Include="Icon_PP_plus_fixed.ico" />
     <Content Include="MetroFramework.txt" />
   </ItemGroup>
